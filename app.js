@@ -7,3 +7,8 @@ function addTask(task) {
 function updateTask(id, task) {
 	return { id, task };
 }
+
+
+function bugTask(task) {
+	return { id, task};
+}
