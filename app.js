@@ -12,3 +12,8 @@ function updateTask(id, task) {
 function bugTask(task) {
 	return { id, task};
 }
+
+function hotfixTask(task) {
+	return { id, task};
+}
+
